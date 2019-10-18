@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Frame/Pods-Frame-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/PPNetworkHelper/PPNetworkHelper.framework
+${BUILT_PRODUCTS_DIR}/YYCache/YYCache.framework
